@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: sunset-purple
+Favorite food: pizza
+Favorite musician/band: ABBA
+Favorite movie: (ratatouille 2007)
+Requested grade in the course: 100
